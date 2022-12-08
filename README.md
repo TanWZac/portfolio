@@ -1,3 +1,3 @@
 # Portfolio
 
-:globe-with-meridians: - https://wenzhengtan.netlify.app/
+:globe_with_meridians: - https://wenzhengtan.netlify.app/
